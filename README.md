@@ -17,7 +17,7 @@ Dessa forma, nada mais natural do que escolher o clássico **Problema do Caixeir
   * O usuário pode escolher o número de cidades;
   * O grafo é gerado em uma matriz bidimensional, sendo as distâncias valores inteiros aleatórios no intervalo [10, 100].
     
-#**Processamento da ACO**
+# **Processamento da ACO**
 A Figura 2 apresenta o pseudocódigo simplifica do algoritmo da ACO. Em cada iteração do algoritmo o feromônio em cada aresta, além de atualizado com o depósito, sofre evaporação.
 
 Figura 2. Pseudocódigo da ACO
